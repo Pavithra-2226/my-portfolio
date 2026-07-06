@@ -1,0 +1,80 @@
+======================================================================
+                     PAVITHRA N - RESUME
+======================================================================
+Python Full Stack Developer
++91 93459 72029 | pavithranagarajan2903@gmail.com
+Dindigul, Tamil Nadu, India
+LinkedIn: linkedin.com/in/pavithra-n-537a0629b
+GitHub: github.com/nrpr2003
+Availability: Immediate (Recent Graduate)
+Relocation: Open to Chennai, Bangalore, Coimbatore, Remote, Hybrid
+======================================================================
+
+OBJECTIVE
+Recent Engineering graduate with hands-on project experience in React.js,
+Django, and REST APIs. Comfortable working across the full stack -- from
+designing database models to building responsive front-end interfaces.
+Looking to join a product team where I can contribute meaningfully from
+day one and continue developing my skills in a collaborative environment.
+
+TECHNICAL SKILLS
+- Frontend: HTML5, CSS3, JavaScript (ES6+), React.js, Tailwind CSS
+- Backend: Python, Django, REST APIs (Django REST Framework - DRF)
+- Database: MySQL, SQLite
+- Tools: Git, GitHub, Postman
+- Concepts: Component-based architecture, DOM manipulation, API integration,
+  Responsive Web Design
+
+PROJECTS
+
+1. E-Commerce Website (Vanilla JS Stack)
+   - Tech Stack: HTML5, CSS3, JavaScript (Vanilla DOM)
+   - Built a fully responsive e-commerce site from scratch with product listings,
+     a dynamic shopping cart, and a complete checkout flow -- entirely in
+     vanilla JavaScript with no framework.
+   - Added product filtering and category-based navigation using DOM manipulation;
+     cart supports add, remove, and real-time quantity updates with state persisted
+     across interactions.
+   - Leveraged localStorage to synchronize the shopping cart state.
+
+2. Instagram Clone (React.js Stack)
+   - Tech Stack: React.js, React Hooks, Component Architecture, Tailwind CSS
+   - Developed a social media web app featuring user authentication, post creation
+     with image uploads, likes, and comments -- closely modelled on Instagram's
+     core experience.
+   - Managed all application state through React Hooks and designed small,
+     reusable components; prioritised a clean UI that performs well even on
+     lower-end devices.
+
+EDUCATION
+
+- Bachelor of Engineering (ECE) | 2020 - 2024
+  CGPA: 8.03 / 10
+  University College of Engineering, Dindigul
+
+- Higher Secondary (HSE) | 2019 - 2020
+  Percentage: 63.33%
+  Bharani Park Matriculation Hr. Sec. School
+
+- Secondary (SSLC) | 2017 - 2018
+  Percentage: 86.00%
+  Pannai Matriculation Hr. Sec. School
+
+CERTIFICATIONS & TRAINING
+
+- Python Full Stack Development
+  Systech Institute, Coimbatore
+  Comprehensive full-stack development program covering backend models,
+  REST APIs, database logic, and client-side integration.
+
+- CSS Bootcamp
+  Codekaro
+  In-depth study of layout design, responsive grids (Flexbox/Grid), and animation.
+
+- Employability & Logical Problem Solving Workshop
+  Titan LEAP Naandi
+  Honed algorithmic thinking, logical structures, and collaborative dynamics.
+
+======================================================================
+Generated via Pavithra's Interactive Portfolio - Systems Status: ONLINE
+======================================================================
